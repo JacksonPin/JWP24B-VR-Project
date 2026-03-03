@@ -11,3 +11,5 @@ https://assetstore.unity.com/packages/3d/environments/dungeons/modular-prison-as
 https://assetstore.unity.com/packages/3d/environments/cabin-environment-98014
 
 https://assetstore.unity.com/packages/3d/props/procedural-potions-38959
+
+https://assetstore.unity.com/packages/3d/props/weapons/long-sword-212082
