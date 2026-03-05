@@ -13,3 +13,5 @@ https://assetstore.unity.com/packages/3d/environments/cabin-environment-98014
 https://assetstore.unity.com/packages/3d/props/procedural-potions-38959
 
 https://assetstore.unity.com/packages/3d/props/weapons/long-sword-212082
+
+https://assetstore.unity.com/packages/3d/props/modular-dining-kit-327318
