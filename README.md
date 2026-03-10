@@ -1,3 +1,5 @@
+This is a hidden dungeon within the mostly fair kings castle. The knights like to hangout here probably as a way to feel stornger as they typically pick on the three prisoners here. There used to be four but he's been missing for a few days I wonder if you can find him ;) so his bed has been flipped ot deter the rats. Every link below is used in some fashion in the project. 
+
 https://polyhaven.com/a/ClassicConsole_01
 
 https://polyhaven.com/a/rock_wall_16
